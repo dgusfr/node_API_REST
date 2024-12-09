@@ -2,7 +2,7 @@
   "name": "node_api_rest",
   "version": "1.0.0",
   "description": "Api Rest for a Blog ",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "npm run test",
     "start": "node src/server.js",
