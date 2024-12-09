@@ -1,0 +1,11 @@
+{
+  "name": "node_api_rest",
+  "version": "1.0.0",
+  "description": "Api Rest for a Blog ",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Diego Franco",
+  "license": "MIT"
+}
