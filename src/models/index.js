@@ -11,7 +11,7 @@ User.hasMany(Article, { foreignKey: "userId" });
 Article.belongsTo(User, { foreignKey: "userId" });
 
 sequelize
-  .sync({ force: true }) // Use "force: true" para recriar as tabelas.
+  .sync({ force: false })
   .then(() => {
     console.log("Tabelas sincronizadas com sucesso.");
   })
