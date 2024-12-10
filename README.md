@@ -68,6 +68,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
 
 ## Documentação da API
 
+<br>
+
 ### **Endpoints**
 
 #### **1. Autenticação de Usuários**
