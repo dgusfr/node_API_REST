@@ -23,7 +23,7 @@ Este projeto consiste em uma API RESTful para gerenciar usuários e artigos. A A
     <img src="images/js.png" alt="JavaScript" width="100"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/node.png" alt="Node.js" width="100"/>
+    <img src="images/node.png" alt="Node.js" width="100"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="img/mysql.png" alt="MySQL" width="100"/>
