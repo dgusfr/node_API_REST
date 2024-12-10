@@ -92,6 +92,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
     }
     ```
 
+<br>
+
 - **POST /users/login**
   - Descrição: Realiza o login e retorna o token JWT.
   - Corpo da Requisição:
