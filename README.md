@@ -2,6 +2,8 @@
 
 Este projeto consiste em uma API RESTful para gerenciar usuários e artigos. A API permite criar, editar, listar e excluir artigos associados a usuários autenticados, utilizando autenticação baseada em tokens JWT.
 
+<br>
+
 ---
 
 ## Sumário
@@ -13,6 +15,8 @@ Este projeto consiste em uma API RESTful para gerenciar usuários e artigos. A A
 - [Documentação da API](#documentação-da-api)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
+
+<br>
 
 ---
 
@@ -30,17 +34,23 @@ Este projeto consiste em uma API RESTful para gerenciar usuários e artigos. A A
   </div>
 </div>
 
+<br>
+
 ---
 
 ## Status
 
 ![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
+<br>
+
 ---
 
 ## Descrição
 
 Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usuários. Os artigos são vinculados aos usuários que os criaram, e o sistema de autenticação garante que apenas usuários autenticados possam acessar as funcionalidades protegidas.
+
+<br>
 
 ---
 
