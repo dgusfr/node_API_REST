@@ -110,6 +110,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
     }
     ```
 
+<br>
+
 #### **2. Gerenciamento de Artigos**
 
 - **GET /articles**
@@ -134,6 +136,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
     ]
     ```
 
+<br>
+
 - **POST /articles**
 
   - Descrição: Cria um novo artigo.
@@ -157,6 +161,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
       "articleId": 1
     }
     ```
+
+<br>
 
 - **PUT /articles/:id**
 
