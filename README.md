@@ -2,10 +2,6 @@
 
 Este projeto consiste em uma API RESTful para gerenciar usuários e artigos. A API permite criar, editar, listar e excluir artigos associados a usuários autenticados, utilizando autenticação baseada em tokens JWT.
 
-<div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
-</div>
-
 ---
 
 ## Sumário
