@@ -62,6 +62,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
 - Exclusão de artigos.
 - Listagem de todos os artigos vinculados ao usuário.
 
+<br>
+
 ---
 
 ## Documentação da API
