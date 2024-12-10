@@ -181,10 +181,3 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
     ```
 
 ---
-
-## Como Usar
-
-1. Clone o repositório.
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
