@@ -181,3 +181,7 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
     ```
 
 ---
+
+## Autor
+
+Desenvolvido por Diego Franco.
