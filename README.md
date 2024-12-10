@@ -204,6 +204,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
     }
     ```
 
+<br>
+
 ---
 
 ## Autor
