@@ -187,6 +187,8 @@ Esta API foi desenvolvida para gerenciar artigos de blog e autenticação de usu
     }
     ```
 
+<br>
+
 - **DELETE /articles/:id**
   - Descrição: Exclui um artigo do usuário autenticado.
   - Header:
