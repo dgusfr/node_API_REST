@@ -1,5 +1,7 @@
 # ConquisTi Blog API
 
+<br>
+
 Este projeto consiste em uma API RESTful para gerenciar usuários e artigos. A API permite criar, editar, listar e excluir artigos associados a usuários autenticados, utilizando autenticação baseada em tokens JWT.
 
 <br>
